@@ -1,3 +1,6 @@
+# Specific directories
+code_samples/
+
 # Python objects and environment
 __pycache__/
 *.py[cod]
