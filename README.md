@@ -44,15 +44,15 @@ Extending the framework to support autonomous AI agents would enable multi-step 
 
 ```
 skill-stylistic-extractor/
-├── code_samples/         # Python files for coding style analysis
-├── writing_samples/      # Text/markdown files for writing style analysis
-├── skill_set/            # Generated style guides (output directory)
+├── code_samples/                        # Python files for coding style analysis
+├── writing_samples/                     # Text/markdown files for writing style analysis
+├── skill_set/                           # Generated style guides (output directory)
 │   ├── coding_stylistic_guide.md
 │   └── writing_stylistic_guide.md
-├── src/                  # Source code
+├── src/                                 # Source code
 │   ├── coding_stylistic_extractor.py    # Code style extraction script
 │   └── writing_stylistic_extractor.py   # Writing style extraction script
-├── .env                  # API key configuration (not tracked)
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
+├── .env                                 # API key configuration (not tracked)
+├── requirements.txt                     # Python dependencies
+└── README.md                            # Project documentation
 ```
